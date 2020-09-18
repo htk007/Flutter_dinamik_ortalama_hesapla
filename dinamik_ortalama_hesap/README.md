@@ -2,9 +2,9 @@
 
 Dinamik Not ortalaması hesaplama uygulaması
 
--> OrientationBuilder 
--> TextFormField
--> DropdownButton
--> BoxDecoration
--> Dismissible widget
--> Dynamic List
+- OrientationBuilder 
+- TextFormField
+- DropdownButton
+- BoxDecoration
+- Dismissible widget
+- Dynamic List
